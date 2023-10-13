@@ -6,3 +6,5 @@ usr/lib/libupb.so.*
 usr/lib/libaddress_sorting.so.*
 usr/lib/libupb_collections_lib.so.*
 usr/lib/libutf8_range_lib.so.*
+usr/lib/libupb_json_lib.so.*
+usr/lib/libupb_textformat_lib.so.*

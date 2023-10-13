@@ -12,3 +12,5 @@ usr/lib/libaddress_sorting.so
 usr/lib/pkgconfig/gpr.pc
 usr/lib/pkgconfig/grpc.pc
 usr/lib/pkgconfig/grpc_unsecure.pc
+usr/lib/i386-linux-gnu/*.so
+usr/lib/i386-linux-gnu/*.so.*

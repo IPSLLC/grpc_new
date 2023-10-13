@@ -14,6 +14,7 @@ usr/lib/pkgconfig/grpc.pc
 usr/lib/pkgconfig/grpc_unsecure.pc
 usr/lib/i386-linux-gnu/*.so
 usr/lib/i386-linux-gnu/*.so.*
-usr/lib/libu*.a
-usr/lib/libu*.so
-usr/lib/libu*.so.*
+usr/lib/libupb_collections_lib.a
+usr/lib/libupb_collections_lib.so
+usr/lib/libutf8_range_lib.a
+usr/lib/libutf8_range_lib.so

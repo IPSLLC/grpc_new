@@ -12,6 +12,7 @@ usr/lib/libaddress_sorting.so
 usr/lib/pkgconfig/gpr.pc
 usr/lib/pkgconfig/grpc.pc
 usr/lib/pkgconfig/grpc_unsecure.pc
+usr/lib/i386-linux-gnu/
 usr/lib/i386-linux-gnu/*.so
 usr/lib/i386-linux-gnu/*.so.*
 usr/lib/libupb_collections_lib.a
@@ -27,3 +28,5 @@ usr/include/google/
 usr/include/utf8_range.h
 usr/include/utf8_validity.h
 usr/include/utf8_range.h
+usr/bin/protoc*
+usr/bin/protoc*.*

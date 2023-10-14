@@ -22,3 +22,8 @@ usr/lib/libupb_json_lib.a
 usr/lib/libupb_json_lib.so
 usr/lib/libupb_textformat_lib.a
 usr/lib/libupb_textformat_lib.so
+usr/include/absl/
+usr/include/google/
+usr/include/utf8_range.h
+usr/include/utf8_validity.h
+usr/include/utf8_range.h

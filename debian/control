@@ -1,7 +1,7 @@
 Source: grpc
 Priority: optional
 Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
-Build-Depends: debhelper-compat (= 13), zlib1g-dev, libssl-dev, libabsl-dev, libprotobuf-dev, protobuf-compiler, libgflags-dev, libgtest-dev, libgoogle-perftools-dev, libprotoc-dev, c-ares-dev, libre2-dev
+Build-Depends: debhelper-compat (= 13), zlib1g-dev, libssl-dev, libabsl-dev, libgflags-dev, libgtest-dev, libgoogle-perftools-dev, c-ares-dev, libre2-dev
 Standards-Version: 4.5.1
 Section: libs
 Homepage: https://www.grpc.io/

@@ -61,7 +61,7 @@ Description: high performance general RPC framework
 Package: protobuf-compiler-grpc
 Architecture: any
 Multi-Arch: foreign
-Depends: ${shlibs:Depends}, ${misc:Depends}, protobuf-compiler
+Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: high performance general RPC framework - protobuf plugin
  A modern, open source remote procedure call (RPC) framework that can
  run anywhere. It enables client and server applications to communicate

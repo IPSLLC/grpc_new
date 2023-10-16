@@ -3,8 +3,6 @@ usr/lib/libgpr.so.*
 usr/lib/libgrpc.so.*
 usr/lib/libgrpc_*.so.*
 usr/lib/libupb.so.*
+usr/lib/libupb_*.so.*
 usr/lib/libaddress_sorting.so.*
-usr/lib/libupb_collections_lib.so.*
 usr/lib/libutf8_range_lib.so.*
-usr/lib/libupb_json_lib.so.*
-usr/lib/libupb_textformat_lib.so.*

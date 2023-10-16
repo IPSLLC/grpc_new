@@ -1,0 +1,9 @@
+usr/lib/*/libprotobuf.a
+usr/lib/*/libprotobuf-lite.a
+usr/lib/*/libprotobuf.so
+usr/lib/*/libprotobuf-lite.so
+usr/lib/*/pkgconfig/protobuf-lite.pc
+usr/lib/*/pkgconfig/protobuf.pc
+usr/lib/*/cmake/protobuf
+usr/include/google/protobuf
+

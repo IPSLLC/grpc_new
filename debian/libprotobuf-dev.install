@@ -5,5 +5,8 @@ usr/lib/*/libprotobuf-lite.so
 usr/lib/*/pkgconfig/protobuf-lite.pc
 usr/lib/*/pkgconfig/protobuf.pc
 usr/lib/*/cmake/protobuf
-usr/include/google/protobuf
-
+usr/include/google/protobuf/*
+usr/include/google/protobuf/io
+usr/include/google/protobuf/json
+usr/include/google/protobuf/stubs
+usr/include/google/protobuf/utils

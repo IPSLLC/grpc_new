@@ -206,7 +206,7 @@ Package: protobuf-compiler
 Version: 3.24.3-0
 Architecture: any
 Multi-Arch: foreign
-Depends: ${shlibs:Depends}, ${misc:Depends}, libprotoc32 (= ${binary:Version})
+Depends: ${shlibs:Depends}, ${misc:Depends}, libprotoc34 (= ${binary:Version})
 Recommends: libprotobuf-dev
 Description: compiler for protocol buffer definition files
  Protocol buffers are a flexible, efficient, automated mechanism for
